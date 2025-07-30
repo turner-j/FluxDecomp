@@ -4,7 +4,8 @@
 
 ### Before you begin
 
-You will need NDVI from Landsat and other variables from ERA5 Reanalysis data at your site.\ These are available for download online.
+You will need NDVI from Landsat and other variables from ERA5 Reanalysis data at your site.\
+These are available for download online.
 
 ### The process
 **1.** Run prepping_RF_data in MATLAB. This will output RFinput_timeseries and NEEfluctuationterm.\
